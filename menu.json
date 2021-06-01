@@ -1,0 +1,127 @@
+{
+    "items": [
+        {
+        "sys": { "name": "breakfast" },
+        "fields": {
+        "title1": " potatoes",
+        "title2":"Meat, Potatoes, Rice, Tomatoe",
+        "price": 99,
+        "id":1,
+        "image": { "fields": { "file": { "url": "./img/breakfast-1.jpg" } } }
+        }
+    },
+    {
+        "sys": { "name": "breakfast" },
+        "fields": {
+        "title1": "Salad",
+        "title2":"Meat, Potatoes, Rice, Tomatoe",
+        "price": 79,
+        "id":2,
+        "image": { "fields": { "file": { "url": "./img/breakfast-2.jpg" } } }
+        }
+    },
+    {
+        "sys": { "name": "breakfast" },
+        "fields": {
+        "title1": "Oats Upma",
+        "title2":"Meat, Potatoes, Rice, Tomatoe",
+        "price": 20,
+        "id":3,
+        "image": { "fields": { "file": { "url": "./img/breakfast-3.jpg" } } }
+        }
+    },
+    {
+        "sys": { "name": "breakfast" },
+        "fields": {
+        "title1": "Egg Curry",
+        "title2":"Meat, Potatoes, Rice, Tomatoe",
+        "price": 129,
+        "id":4,
+        "image": { "fields": { "file": { "url": "./img/breakfast-4.jpg" } } }
+        }
+    },
+    {
+    "sys": { "name": "lunch" },
+    "fields": {
+    "title1": "Bacon sandwich",
+    "title2":"Meat, Potatoes, Rice, Tomatoe",
+    "price": 59,
+    "id":5,
+    "image": { "fields": { "file": { "url": "./img/lunch-1.jpg" } } }
+    }
+}
+,
+{
+    "sys": { "name": "lunch" },
+    "fields": {
+    "title1": "Chicken and waffles",
+    "title2":"Meat, Potatoes, Rice, Tomatoe",
+    "price": 59,
+    "id":6,
+    "image": { "fields": { "file": { "url": "./img/lunch-2.jpg" } } }
+    }},
+    
+    {
+        "sys": { "name": "lunch" },
+        "fields": {
+        "title1": "Egg sandwich ",
+        "title2":"Meat, Potatoes, Rice, Tomatoe",
+        "price": 59,
+        "id":7,
+        "image": { "fields": { "file": { "url": "./img/lunch-3.jpg" } } }
+        }
+    }
+    ,
+    {
+        "sys": { "name": "lunch" },
+        "fields": {
+        "title1": "Granola",
+        "title2":"Meat, Potatoes, Rice, Tomatoe",
+        "price": 59,
+        "id":8,
+        "image": { "fields": { "file": { "url": "./img/lunch-4.jpg" } } }
+        }
+    },
+    {
+        "sys": { "name": "dinner" },
+        "fields": {
+        "title1": "Home fries",
+        "title2":"Meat, Potatoes, Rice, Tomatoe",
+        "price": 59,
+        "id":9,
+        "image": { "fields": { "file": { "url": "./img/dinner-1.jpg" } } }
+        }
+    },
+    {
+        "sys": { "name": "dinner" },
+        "fields": {
+        "title1": "Kix (cereal)",
+        "title2":"Meat, Potatoes, Rice, Tomatoe",
+        "price": 59,
+        "id":10,
+        "image": { "fields": { "file": { "url": "./img/dinner-2.jpg" } } }
+        }
+    },
+    {
+        "sys": { "name": "dinner" },
+        "fields": {
+        "title1": "Oatmeal",
+        "title2":"Meat, Potatoes, Rice, Tomatoe",
+        "price": 59,
+        "id":11,
+        "image": { "fields": { "file": { "url": "./img/dinner-3.jpg" } } }
+        }
+    },
+    {
+        "sys": { "name": "dinner" },
+        "fields": {
+        "title1": "Muffin",
+        "title2":"Meat, Potatoes, Rice, Tomatoe",
+        "price": 59,
+        "id":12,
+        "image": { "fields": { "file": { "url": "./img/dinner-4.jpg" } } }
+        }
+    }
+    ]
+}
+    
